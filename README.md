@@ -10,4 +10,4 @@ Realizar una calculadora con opciones
 4. Mostrar respuesta
 5. Fin.
 
-![DiagramaCalculadora](http://i68.tinypic.com/20h66hz.jpg);
+![DiagramaCalculadora](http://i68.tinypic.com/20h66hz.jpg)
